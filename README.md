@@ -5,7 +5,7 @@ I'm a full stack developer at IMPACT.
 -----------------------------------
 
 * 🌍  I'm based in Surattani, Thailand
-* ✉️  You can contact me at [googlps4za@gmail.com](mailto:googlps4za@gmail.com)
+* ✉️  You can contact me at [ratchanon.cu@gmail.com](mailto:ratchanon.cu@gmail.com)
 * 🧠  I'm learning about Network Monitoring
 
 
