@@ -1,7 +1,7 @@
 My name is Ratchanon Chukiattakerng
 ================================================================================================================================================
 
-I'm a Student at Walilak University
+I'm a full stack developer at IMPACT.
 -----------------------------------
 
 * 🌍  I'm based in Surattani, Thailand
