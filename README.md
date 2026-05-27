@@ -4,7 +4,7 @@ My name is Ratchanon Chukiattakerng
 I'm a full stack developer at IMPACT.
 -----------------------------------
 
-* 🌍  I'm based in Nontaburi, Thailand
+* 🌍  I'm based in Nonthaburi, Thailand
 * ✉️  You can contact me at [ratchanon.cu@gmail.com](mailto:ratchanon.cu@gmail.com)
 * 🧠  I'm learning about Network Monitoring
 
